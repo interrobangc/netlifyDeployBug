@@ -3,3 +3,4 @@
   # This is where we will look for package.json/.nvmrc/etc.
   base = "gatsby-site/"
   publish = "gatsby-site/public"
+  command = "yarn build"
